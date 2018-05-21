@@ -1,5 +1,15 @@
 ## 2018
 
+### 《UNIX网络编程 卷1 套接字联网API（第3版）》
+- [美] W.Richard Stevens，[美] Bill Fenner，[美] Andrew M. Rudoff 著
+- 2018-05-20
+- [京东](https://item.jd.com/11728741.html)
+
+### 《UNIX网络编程 卷2 进程间通信（第2版）》
+- [美] W.理查德·史蒂文斯（W.Richard Stevens） 著
+- 2018-05-20
+- [京东](https://item.jd.com/11728727.html)
+
 ### 《寻羊冒险记》
 - [日] 村上春树 著；林少华 译
 - 2018-03-30
