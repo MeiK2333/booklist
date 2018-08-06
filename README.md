@@ -1,5 +1,10 @@
 ## 2018
 
+### 《深入理解 Nginx 模块开发与架构解析（第2版）》
+- 陶辉 著
+- 2018-08-02
+- 京东
+
 ### 《UNIX网络编程 卷1 套接字联网API（第3版）》
 - [美] W.Richard Stevens，[美] Bill Fenner，[美] Andrew M. Rudoff 著
 - 2018-05-20
