@@ -1,9 +1,28 @@
 ## 2018
 
+### 《UNIX编程艺术》
+- [美] Eric S.Raymond 著 姜宏，何源，蔡晓骏 译
+- 电子工业出版社
+- 2018-08-29
+- [当当](http://product.dangdang.com/22863178.html)
+
+### 《More Effective C++：35个改善编程与设计的有效方法（中文版）》
+- (美)梅耶
+- 电子工业出版社
+- 2018-08-29
+- [当当](http://product.dangdang.com/21020857.html)
+
+### 《人月神话》
+- (美) 布鲁克斯(Brooks, F. P.) 著
+- 清华大学出版社
+- 2018-08-29
+- [当当](http://product.dangdang.com/25295797.html)
+
 ### 《深入理解 Nginx 模块开发与架构解析（第2版）》
 - 陶辉 著
+- 机械工业出版社
 - 2018-08-02
-- 京东
+- [京东](https://item.jd.com/11877268.html)
 
 ### 《UNIX网络编程 卷1 套接字联网API（第3版）》
 - [美] W.Richard Stevens，[美] Bill Fenner，[美] Andrew M. Rudoff 著
