@@ -1,5 +1,35 @@
 ## 2018
 
+### 《C 和指针》
+- [美] Kenneth A.Reek
+- 人民邮电出版社
+- 2018-10-24
+- [当当](http://product.dangdang.com/20165942.html)
+
+### 《编程之美》
+- 《编程之美》小组
+- 电子工业出版社
+- 2018-10-24
+- [当当](http://product.dangdang.com/20170952.html)
+
+### 《技术之瞳》
+- 阿里巴巴集团校园招聘笔试项目组
+- 电子工业出版社
+- 2018-10-24
+- [当当](http://product.dangdang.com/24057987.html)
+
+### 《剑指Offer》
+- 何海涛
+- 电子工业出版社
+- 2018-10-24
+- [当当](http://product.dangdang.com/24242724.html)
+
+### 《Python编程之美》
+- [美] Kenneth Reitz（肯尼思·赖茨），Tanya Schlusser（坦尼娅·胥卢瑟）
+- 电子工业出版社
+- 2018-10-24
+- [当当](http://product.dangdang.com/25336768.html)
+
 ### 《UNIX编程艺术》
 - [美] Eric S.Raymond 著 姜宏，何源，蔡晓骏 译
 - 电子工业出版社
